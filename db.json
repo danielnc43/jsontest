@@ -1,107 +1,133 @@
 {
 	"states": [{
-			"clave": "AGS",
-			"nombre": "AGUASCALIENTES"
+			"key": "AGS",
+			"name": "AGUASCALIENTES",
+			"provinces": ["AGS - Province 1","AGS - Province 2"]
 		},
 		{
-			"clave": "CHI",
-			"nombre": "CHIHUAHUA"
+			"key": "CHI",
+			"name": "CHIHUAHUA",
+			"provinces": ["CHI - Province 1","CHI - Province 2"]
 		},
 		{
-			"clave": "CHS",
-			"nombre": "CHIAPAS"
+			"key": "CHS",
+			"name": "CHIAPAS",
+			"provinces": ["CHS - Province 1","CHS - Province 2"]
 		},
 		{
-			"clave": "CMP",
-			"nombre": "CAMPECHE"
+			"key": "CMP",
+			"name": "CAMPECHE",
+			"provinces": ["CMP - Province 1","CMP - Province 2"]
 		},
 		{
-			"clave": "COA",
-			"nombre": "COAHUILA"
+			"key": "COA",
+			"name": "COAHUILA",
+			"provinces": ["COA - Province 1","COA - Province 2"]
 		},
 		{
-			"clave": "COL",
-			"nombre": "COLIMA"
+			"key": "COL",
+			"name": "COLIMA",
+			"provinces": ["COL - Province 1","COL - Province 2"]
 		},
 		{
-			"clave": "DGO",
-			"nombre": "DURANGO"
+			"key": "DGO",
+			"name": "DURANGO",
+			"provinces": ["DGO - Province 1","DGO - Province 2"]
 		},
 		{
-			"clave": "GRO",
-			"nombre": "GUERRERO"
+			"key": "GRO",
+			"name": "GUERRERO",
+			"provinces": ["GRO - Province 1","GRO - Province 2"]
 		},
 		{
-			"clave": "HGO",
-			"nombre": "HIDALGO"
+			"key": "HGO",
+			"name": "HIDALGO",
+			"provinces": ["HGO - Province 1","HGO - Province 2"]
 		},
 		{
-			"clave": "JAL",
-			"nombre": "JALISCO"
+			"key": "JAL",
+			"name": "JALISCO",
+			"provinces": ["JAL - Province 1","JAL - Province 2"]
 		},
 		{
-			"clave": "MCH",
-			"nombre": "MICHOACAN"
+			"key": "MCH",
+			"name": "MICHOACAN",
+			"provinces": ["MCH - Province 1","MCH - Province 2"]
 		},
 		{
-			"clave": "MEX",
-			"nombre": "ESTADO DE MEXICO"
+			"key": "MEX",
+			"name": "ESTADO DE MEXICO",
+			"provinces": ["MEX - Province 1","MEX - Province 2"]
 		},
 		{
-			"clave": "MOR",
-			"nombre": "MORELOS"
+			"key": "MOR",
+			"name": "MORELOS",
+			"provinces": ["MOR - Province 1","MOR - Province 2"]
 		},
 		{
-			"clave": "NAY",
-			"nombre": "NAYARIT"
+			"key": "NAY",
+			"name": "NAYARIT",
+			"provinces": ["NAY - Province 1","NAY - Province 2"]
 		},
 		{
-			"clave": "NL",
-			"nombre": "NUEVO LEON"
+			"key": "NL",
+			"name": "NUEVO LEON",
+			"provinces": ["NL - Province 1","NL - Province 2"]
 		},
 		{
-			"clave": "OAX",
-			"nombre": "OAXACA"
+			"key": "OAX",
+			"name": "OAXACA",
+			"provinces": ["OAX - Province 1","OAX - Province 2"]
 		},
 		{
-			"clave": "PUE",
-			"nombre": "PUEBLA"
+			"key": "PUE",
+			"name": "PUEBLA",
+			"provinces": ["PUE - Province 1","PUE - Province 2"]
 		},
 		{
-			"clave": "QR",
-			"nombre": "QUINTANA ROO"
+			"key": "QR",
+			"name": "QUINTANA ROO",
+			"provinces": ["QR - Province 1","QR - Province 2"]
 		},
 		{
-			"clave": "QRO",
-			"nombre": "QUERETARO"
+			"key": "QRO",
+			"name": "QUERETARO",
+			"provinces": ["QRO - Province 1","QRO - Province 2"]
 		},
 		{
-			"clave": "SIN",
-			"nombre": "SINALOA"
+			"key": "SIN",
+			"name": "SINALOA",
+			"provinces": ["SIN - Province 1","SIN - Province 2"]
 		},
 		{
-			"clave": "SLP",
-			"nombre": "SAN LUIS POTOSI"
+			"key": "SLP",
+			"name": "SAN LUIS POTOSI",
+			"provinces": ["SLP - Province 1","SLP - Province 2"]
 		},
 		{
-			"clave": "SON",
-			"nombre": "SONORA"
+			"key": "SON",
+			"name": "SONORA",
+			"provinces": ["SON - Province 1","SON - Province 2"]
 		},
 		{
-			"clave": "TAB",
-			"nombre": "TABASCO"
+			"key": "TAB",
+			"name": "TABASCO",
+			"provinces": ["TAB - Province 1","TAB - Province 2"]
 		},
 		{
-			"clave": "TMS",
-			"nombre": "TAMAULIPAS"
+			"key": "TMS",
+			"name": "TAMAULIPAS",
+			"provinces": ["TMS - Province 1","TMS - Province 2"]
 		},
 		{
-			"clave": "VER",
-			"nombre": "VERACRUZ"
+			"key": "VER",
+			"name": "VERACRUZ",
+			"provinces": ["VER - Province 1","VER - Province 2"]
 		},
 		{
-			"clave": "YUC",
-			"nombre": "YUCATAN"
+			"key": "YUC",
+			"name": "YUCATAN",
+			"provinces": ["YUC - Province 1","YUC - Province 2"]
 		}
 	]
 }
