@@ -4,14 +4,6 @@
 			"nombre": "AGUASCALIENTES"
 		},
 		{
-			"clave": "BC",
-			"nombre": "BAJA CALIFORNIA"
-		},
-		{
-			"clave": "BCS",
-			"nombre": "BAJA CALIFORNIA SUR"
-		},
-		{
 			"clave": "CHI",
 			"nombre": "CHIHUAHUA"
 		},
@@ -38,10 +30,6 @@
 		{
 			"clave": "GRO",
 			"nombre": "GUERRERO"
-		},
-		{
-			"clave": "GTO",
-			"nombre": "GUANAJUATO"
 		},
 		{
 			"clave": "HGO",
