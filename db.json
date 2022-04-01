@@ -22,11 +22,7 @@
 		{
 			"clave": "CMP",
 			"nombre": "CAMPECHE"
-		},
-		{
-			"clave": "CMX",
-			"nombre": "CIUDAD DE MEXICO"
-		},
+		}
 		{
 			"clave": "COA",
 			"nombre": "COAHUILA"
@@ -108,10 +104,6 @@
 			"nombre": "TABASCO"
 		},
 		{
-			"clave": "TLX",
-			"nombre": "TLAXCALA"
-		},
-		{
 			"clave": "TMS",
 			"nombre": "TAMAULIPAS"
 		},
@@ -122,10 +114,6 @@
 		{
 			"clave": "YUC",
 			"nombre": "YUCATAN"
-		},
-		{
-			"clave": "ZAC",
-			"nombre": "ZACATECAS"
 		}
 	]
 }
