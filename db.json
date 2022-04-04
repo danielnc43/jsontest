@@ -2,132 +2,133 @@
 	"states": [{
 			"key": "AGS",
 			"name": "AGUASCALIENTES",
-			"provinces": ["AGS - Province 1","AGS - Province 2"]
+			"provinces": [{"key": 1, "name":"AGS - Province 1"},{"key":2,"name":"AGS - Province 2"}]
 		},
 		{
 			"key": "CHI",
 			"name": "CHIHUAHUA",
-			"provinces": ["CHI - Province 1","CHI - Province 2"]
+			"provinces": [{"key":1,"name":"CHI - Province 1"},{"key":2,"name":"CHI - Province 2"}]
 		},
 		{
 			"key": "CHS",
 			"name": "CHIAPAS",
-			"provinces": ["CHS - Province 1","CHS - Province 2"]
+			"provinces": [{"key":1,"name":"CHS - Province 1"},{"key":2,"name":"CHS - Province 2"}]
 		},
 		{
 			"key": "CMP",
 			"name": "CAMPECHE",
-			"provinces": ["CMP - Province 1","CMP - Province 2"]
+			"provinces": [{"key":1,"name":"CMP - Province 1"},{"key":2,"name":"CMP - Province 2"}]
 		},
 		{
 			"key": "COA",
 			"name": "COAHUILA",
-			"provinces": ["COA - Province 1","COA - Province 2"]
+			"provinces": [{"key":1,"name":"COA - Province 1"},{"key":2,"name":"COA - Province 2"}]
 		},
 		{
 			"key": "COL",
 			"name": "COLIMA",
-			"provinces": ["COL - Province 1","COL - Province 2"]
+			"provinces": [{"key":1,"name":"COL - Province 1"},{"key":2,"name":"COL - Province 2"}]
 		},
 		{
 			"key": "DGO",
 			"name": "DURANGO",
-			"provinces": ["DGO - Province 1","DGO - Province 2"]
+			"provinces": [{"key":1,"name":"DGO - Province 1"},{"key":2,"name":"DGO - Province 2"}]
 		},
 		{
 			"key": "GRO",
 			"name": "GUERRERO",
-			"provinces": ["GRO - Province 1","GRO - Province 2"]
+			"provinces": [{"key":1,"name":"GRO - Province 1"},{"key":2,"name":"GRO - Province 2"}]
 		},
 		{
 			"key": "HGO",
 			"name": "HIDALGO",
-			"provinces": ["HGO - Province 1","HGO - Province 2"]
+			"provinces": [{"key":1,"name":"HGO - Province 1"},{"key":2,"name":"HGO - Province 2"}]
 		},
 		{
 			"key": "JAL",
 			"name": "JALISCO",
-			"provinces": ["JAL - Province 1","JAL - Province 2"]
+			"provinces": [{"key":1,"name":"JAL - Province 1"},{"key":2,"name":"JAL - Province 2"}]
 		},
 		{
 			"key": "MCH",
 			"name": "MICHOACAN",
-			"provinces": ["MCH - Province 1","MCH - Province 2"]
+			"provinces": [{"key":1,"name":"MCH - Province 1"},{"key":2,"name":"MCH - Province 2"}]
 		},
 		{
 			"key": "MEX",
 			"name": "ESTADO DE MEXICO",
-			"provinces": ["MEX - Province 1","MEX - Province 2"]
+			"provinces": [{"key":1,"name":"MEX - Province 1"},{"key":2,"name":"MEX - Province 2"}]
 		},
 		{
 			"key": "MOR",
 			"name": "MORELOS",
-			"provinces": ["MOR - Province 1","MOR - Province 2"]
+			"provinces": [{"key":1,"name":"MOR - Province 1"},{"key":2,"name":"MOR - Province 2"}]
 		},
 		{
 			"key": "NAY",
 			"name": "NAYARIT",
-			"provinces": ["NAY - Province 1","NAY - Province 2"]
+			"provinces": [{"key":1,"name":"NAY - Province 1"},{"key":2,"name":"NAY - Province 2"}]
 		},
 		{
 			"key": "NL",
 			"name": "NUEVO LEON",
-			"provinces": ["NL - Province 1","NL - Province 2"]
+			"provinces": [{"key":1,"name":"NL - Province 1"},{"key":2,"name":"NL - Province 2"}]
 		},
 		{
 			"key": "OAX",
 			"name": "OAXACA",
-			"provinces": ["OAX - Province 1","OAX - Province 2"]
+			"provinces": [{"key":1,"name":"OAX - Province 1"},{"key":2,"name":"OAX - Province 2"}]
 		},
 		{
 			"key": "PUE",
 			"name": "PUEBLA",
-			"provinces": ["PUE - Province 1","PUE - Province 2"]
+			"provinces": [{"key":1,"name":"PUE - Province 1"},{"key":2,"name":"PUE - Province 2"}]
 		},
 		{
 			"key": "QR",
 			"name": "QUINTANA ROO",
-			"provinces": ["QR - Province 1","QR - Province 2"]
+			"provinces": [{"key":1,"name":"QR - Province 1"},{"key":2,"name":"QR - Province 2"}]
 		},
 		{
 			"key": "QRO",
 			"name": "QUERETARO",
-			"provinces": ["QRO - Province 1","QRO - Province 2"]
+			"provinces": [{"key":1,"name":"QRO - Province 1"},{"key":2,"name":"QRO - Province 2"}]
 		},
 		{
 			"key": "SIN",
 			"name": "SINALOA",
-			"provinces": ["SIN - Province 1","SIN - Province 2"]
+			"provinces": [{"key":1,"name":"SIN - Province 1"},{"key":2,"name":"SIN - Province 2"}]
 		},
 		{
 			"key": "SLP",
 			"name": "SAN LUIS POTOSI",
-			"provinces": ["SLP - Province 1","SLP - Province 2"]
+			"provinces": [{"key":1,"name":"SLP - Province 1"},{"key":2,"name":"SLP - Province 2"}]
 		},
 		{
 			"key": "SON",
 			"name": "SONORA",
-			"provinces": ["SON - Province 1","SON - Province 2"]
+			"provinces": [{"key":1,"name":"SON - Province 1"},{"key":2,"name":"SON - Province 2"}]
 		},
 		{
 			"key": "TAB",
 			"name": "TABASCO",
-			"provinces": ["TAB - Province 1","TAB - Province 2"]
+			"provinces": [{"key":1,"name":"TAB - Province 1"},{"key":2,"name":"TAB - Province 2"}]
 		},
 		{
 			"key": "TMS",
 			"name": "TAMAULIPAS",
-			"provinces": ["TMS - Province 1","TMS - Province 2"]
+			"provinces": [{"key":1,"name":"TMS - Province 1"},{"key":2,"name":"TMS - Province 2"}]
 		},
 		{
 			"key": "VER",
 			"name": "VERACRUZ",
-			"provinces": ["VER - Province 1","VER - Province 2"]
+			"provinces": [{"key":1,"name":"VER - Province 1"},{"key":2,"name":"VER - Province 2"}]
 		},
 		{
 			"key": "YUC",
 			"name": "YUCATAN",
-			"provinces": ["YUC - Province 1","YUC - Province 2"]
+			"provinces": [{"key":1,"name":"YUC - Province 1"},{"key":2,"name":"YUC - Province 2"}]
 		}
 	]
 }
+
